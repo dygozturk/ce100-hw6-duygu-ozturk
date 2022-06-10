@@ -1,0 +1,7 @@
+﻿  ce100-hw6-algo-lib.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce100-hw6-sln\ce100-hw6-algo-lib\ce100-hw6-algo-lib.cpp(76,40): warning C4244: 'bağımsız değişken': 'CryptoPP::lword' - 'size_t' dönüşümü; veri kaybı olabilir
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce100-hw6-sln\ce100-hw6-algo-lib\ce100-hw6-algo-lib.cpp(90,37): warning C4244: 'bağımsız değişken': 'CryptoPP::lword' - 'size_t' dönüşümü; veri kaybı olabilir
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce100-hw6-sln\ce100-hw6-algo-lib\ce100-hw6-algo-lib.cpp(108,37): warning C4244: 'bağımsız değişken': 'CryptoPP::lword' - 'size_t' dönüşümü; veri kaybı olabilir
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce100-hw6-sln\ce100-hw6-algo-lib\ce100-hw6-algo-lib.cpp(115): warning C4715: 'transformFile': tüm denetim yolları değer döndürmez
+  ce100-hw6-algo-lib.vcxproj -> C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce100-hw6-sln\Debug\ce100-hw6-algo-lib.lib

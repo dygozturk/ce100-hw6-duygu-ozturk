@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  ce100-hw6-algo-lib.cpp
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce100-hw6-sln\ce100-hw6-algo-lib\ce100-hw6-algo-lib.cpp(195,1): fatal error C1010: ön derlenmiş üstbilgi aranırken beklenmeyen dosya sonu. kaynak kodunuza '#include "pch.h"' eklemeyi unuttunuz mu?
